@@ -31,7 +31,7 @@ Before installing this mod, make sure you have:
 
 ## 🚀 Installation
 
-1. Download the latest release (`ObserveModMenu.dll`) from the [Releases](https://github.com/sohfjdhs/-Observe-Unofficial-Mod-Menureleases) section.
+1. Download the latest release (`ObserveModMenu.dll`) from the [Releases](https://github.com/sohfjdhs/-Observe-Unofficial-Mod-Menu/releases) section.
 2. Navigate to your *Observe* game directory.
 3. Place `ObserveModMenu.dll` into the `BepInEx/plugins` folder:
    ```text
